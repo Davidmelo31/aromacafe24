@@ -3,12 +3,12 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fdf6f0;
-  color: #5c4033;
+  background-color: #f6efe9; /* Fondo beige claro */
+  color: #4b2e2b; /* Texto café oscuro */
 }
 
 header {
-  background-color: #c89f94;
+  background-color: #a46d4e; /* Café medio */
   color: white;
   text-align: center;
   padding: 20px 10px;
@@ -37,7 +37,7 @@ header h1 {
 header p {
   font-size: 14px;
   margin-top: 5px;
-  color: #fef4f0;
+  color: #fceee7;
 }
 
 .menu {
@@ -49,7 +49,7 @@ header p {
 /* Botones desplegables */
 .categoria {
   width: 100%;
-  background-color: #b5897b;
+  background-color: #c59a7e; /* Café claro */
   color: white;
   border: none;
   padding: 15px;
@@ -62,7 +62,7 @@ header p {
 }
 
 .categoria:hover {
-  background-color: #9e7568;
+  background-color: #9c6b4f; /* Hover más oscuro */
 }
 
 .contenido {
@@ -80,7 +80,7 @@ header p {
 
 .tarjeta {
   background-color: #ffffff;
-  border: 1px solid #e8dcd2;
+  border: 1px solid #e6d2c3;
   border-radius: 12px;
   width: 240px;
   padding: 15px;
@@ -103,18 +103,18 @@ header p {
 .tarjeta h3 {
   margin: 10px 0 5px;
   font-size: 18px;
-  color: #5c4033;
+  color: #4b2e2b; /* Título en café oscuro */
 }
 
 .tarjeta p {
   font-size: 16px;
-  color: #7a5c4d;
+  color: #6b443b; /* Texto en café medio */
 }
 
 /* Bloque de métodos de pago */
 .metodo {
-  background-color: #f8eee6;
-  border-left: 5px solid #c89f94;
+  background-color: #f2e5dc;
+  border-left: 5px solid #a46d4e;
   margin-top: 30px;
   padding: 20px;
   border-radius: 6px;
@@ -122,11 +122,11 @@ header p {
 
 .metodo h3 {
   margin-top: 0;
-  color: #5c4033;
+  color: #4b2e2b;
 }
 
 footer {
-  background-color: #c89f94;
+  background-color: #a46d4e;
   color: white;
   text-align: center;
   padding: 15px;
